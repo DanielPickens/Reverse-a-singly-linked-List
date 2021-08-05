@@ -10,7 +10,7 @@ return tmp;
 
 
 
-///or sol 2:
+//or sol 2:
 
 const reverse = (head) => {
    if (!head || !head.next) {
