@@ -1,4 +1,4 @@
-function reverseLL(head) {
+function reverse(head) {
  if (!head || !head.next) {
     return head;
 }
